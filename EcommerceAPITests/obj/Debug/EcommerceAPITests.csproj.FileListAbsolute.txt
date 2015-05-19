@@ -1,0 +1,40 @@
+C:\EcommerceAPITests\EcommerceAPITests\bin\Debug\EcommerceAPITests.exe.config
+C:\EcommerceAPITests\EcommerceAPITests\bin\Debug\EcommerceAPITests.exe
+C:\EcommerceAPITests\EcommerceAPITests\bin\Debug\EcommerceAPITests.pdb
+C:\EcommerceAPITests\EcommerceAPITests\bin\Debug\Newtonsoft.Json.dll
+C:\EcommerceAPITests\EcommerceAPITests\bin\Debug\Newtonsoft.Json.xml
+C:\EcommerceAPITests\EcommerceAPITests\obj\Debug\EcommerceAPITests.csprojResolveAssemblyReference.cache
+C:\EcommerceAPITests\EcommerceAPITests\obj\Debug\EcommerceAPITests.exe
+C:\EcommerceAPITests\EcommerceAPITests\obj\Debug\EcommerceAPITests.pdb
+G:\HomeAway\EcommerceAPITests\EcommerceAPITests\bin\Debug\EcommerceAPITests.exe.config
+G:\HomeAway\EcommerceAPITests\EcommerceAPITests\obj\Debug\EcommerceAPITests.exe
+G:\HomeAway\EcommerceAPITests\EcommerceAPITests\obj\Debug\EcommerceAPITests.pdb
+G:\HomeAway\EcommerceAPITests\EcommerceAPITests\bin\Debug\EcommerceAPITests.exe
+G:\HomeAway\EcommerceAPITests\EcommerceAPITests\bin\Debug\EcommerceAPITests.pdb
+G:\HomeAway\EcommerceAPITests\EcommerceAPITests\bin\Debug\Newtonsoft.Json.dll
+G:\HomeAway\EcommerceAPITests\EcommerceAPITests\bin\Debug\Newtonsoft.Json.xml
+G:\HomeAway\EcommerceAPITests\EcommerceAPITests\obj\Debug\EcommerceAPITests.csprojResolveAssemblyReference.cache
+E:\HomeAway\EcommerceAPITests\EcommerceAPITests\bin\Debug\EcommerceAPITests.exe.config
+E:\HomeAway\EcommerceAPITests\EcommerceAPITests\obj\Debug\EcommerceAPITests.exe
+E:\HomeAway\EcommerceAPITests\EcommerceAPITests\obj\Debug\EcommerceAPITests.pdb
+E:\HomeAway\EcommerceAPITests\EcommerceAPITests\bin\Debug\EcommerceAPITests.exe
+E:\HomeAway\EcommerceAPITests\EcommerceAPITests\bin\Debug\EcommerceAPITests.pdb
+E:\HomeAway\EcommerceAPITests\EcommerceAPITests\bin\Debug\Newtonsoft.Json.dll
+E:\HomeAway\EcommerceAPITests\EcommerceAPITests\bin\Debug\Newtonsoft.Json.xml
+E:\HomeAway\EcommerceAPITests\EcommerceAPITests\obj\Debug\EcommerceAPITests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Homeaway assignments\EcommerceAPITests\EcommerceAPITests\bin\Debug\EcommerceAPITests.exe.config
+C:\Users\Administrator\Documents\Homeaway assignments\EcommerceAPITests\EcommerceAPITests\obj\Debug\EcommerceAPITests.exe
+C:\Users\Administrator\Documents\Homeaway assignments\EcommerceAPITests\EcommerceAPITests\obj\Debug\EcommerceAPITests.pdb
+C:\Users\Administrator\Documents\Homeaway assignments\EcommerceAPITests\EcommerceAPITests\bin\Debug\EcommerceAPITests.exe
+C:\Users\Administrator\Documents\Homeaway assignments\EcommerceAPITests\EcommerceAPITests\bin\Debug\EcommerceAPITests.pdb
+C:\Users\Administrator\Documents\Homeaway assignments\EcommerceAPITests\EcommerceAPITests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Homeaway assignments\EcommerceAPITests\EcommerceAPITests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Homeaway assignments\EcommerceAPITests\EcommerceAPITests\obj\Debug\EcommerceAPITests.csprojResolveAssemblyReference.cache
+G:\HomeAway\Homeaway assignments\EcommerceAPITests\EcommerceAPITests\bin\Debug\EcommerceAPITests.exe.config
+G:\HomeAway\Homeaway assignments\EcommerceAPITests\EcommerceAPITests\obj\Debug\EcommerceAPITests.exe
+G:\HomeAway\Homeaway assignments\EcommerceAPITests\EcommerceAPITests\obj\Debug\EcommerceAPITests.pdb
+G:\HomeAway\Homeaway assignments\EcommerceAPITests\EcommerceAPITests\bin\Debug\EcommerceAPITests.exe
+G:\HomeAway\Homeaway assignments\EcommerceAPITests\EcommerceAPITests\bin\Debug\EcommerceAPITests.pdb
+G:\HomeAway\Homeaway assignments\EcommerceAPITests\EcommerceAPITests\bin\Debug\Newtonsoft.Json.dll
+G:\HomeAway\Homeaway assignments\EcommerceAPITests\EcommerceAPITests\bin\Debug\Newtonsoft.Json.xml
+G:\HomeAway\Homeaway assignments\EcommerceAPITests\EcommerceAPITests\obj\Debug\EcommerceAPITests.csprojResolveAssemblyReference.cache

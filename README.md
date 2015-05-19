@@ -5,7 +5,7 @@ Set up required for automated API tests for https://api.data.gov/
 
 Test Environment:
 
-1.	Install Visual Studio 2013. 
+1.	Install Visual Studio 2012. 
 
 2.	Install 'Json.NET' using Nuget Package Manager. 
 
